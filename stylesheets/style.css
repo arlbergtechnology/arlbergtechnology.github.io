@@ -1,0 +1,32 @@
+body { 
+    margin : 0;
+    background : url('../images/pic1.jpg') no-repeat center center fixed;
+    background-size : cover;
+}
+
+
+.navbar {
+    border-radius : 0px !important;
+}
+
+.panel {
+    background : rgba(255, 255, 255, 0.4) !important;
+}
+
+.arlberg-footer {
+    border-top : black 1px solid;
+}
+
+.section-title-spacer {
+    width : 20px;
+}
+
+.footer {
+    position : absolute;
+    bottom : 0;
+    width : 100%;
+    height : 40px;
+    background : rgba(255, 255, 255, 0.4);
+    padding : 15px;
+}
+
